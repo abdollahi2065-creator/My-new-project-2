@@ -1,5 +1,7 @@
 # My-new-project-2
-Bulding ai course project 
+Bulding ai course project
+## Summary
+This project proposes an AI-based system that automatically summarizes educational texts. The goal is to help students save time and improve learning efficiency by extracting key points and important sentences from long study materials.
 # Smart Homework Summarizer
 
 ## Problem Description
